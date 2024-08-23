@@ -1,6 +1,6 @@
 # ✌ Me Motive ! Gerador de Frases Motivacionais
 
-Visualizar Projeto: [Clique aqui](https://moraislucas.github.io/MeMotive/)
+Visualizar Projeto: [Clique aqui](https://66c8c8b637ef60e30856a032--suportemaqplan.netlify.app/)
 <br>
 
 ## Projeto
