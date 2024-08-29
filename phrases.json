@@ -1,7 +1,7 @@
 [{
         "id": 0,
-        "quote": "Sucesso é ir de fracasso em fracasso sem perder o entusiasmo.",
-        "author": "Winston Churchill"
+        "quote": "Teste Alison",
+        "author": "Alison Aguiar"
     },
     {
         "id": 1,
@@ -1443,9 +1443,5 @@
         "quote": "Muitos talentos se perdem por falta de um pouco de coragem.",
         "author": "Sydney Smith"
     }
-    {
-        "id": 289,
-        "quote": "Muitos talentos se perdem por falta de um pouco de coragem.",
-        "author": "Sydney Smith"
-    }
+    
 ]
